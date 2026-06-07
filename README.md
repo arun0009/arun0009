@@ -38,7 +38,7 @@
 - 🔁 **[idempotent](https://github.com/arun0009/idempotent)** — Idempotency for Java/Spring with pluggable backends (Redis, DynamoDB, NATS, RDS)
 - 🧾 **[go-logger](https://github.com/arun0009/go-logger)** — Structured logging in Go with context propagation across common logging libraries
 - ✈️ **[global-entry-appointment](https://github.com/arun0009/global-entry-appointment)** — AWS-based watcher for appointment slots with notifications · [Setup](https://arun0009.github.io/global-entry-appointment/)
-- 🧪 **[go-resilience-mock](https://github.com/arun0009/go-resilience-mock)** — Fault injection for integration testing (latency, jitter, failures, rate limits)
+- 🧪 **[flakymock](https://github.com/arun0009/flakymock)** — HTTP mock server for resilience testing — retries, circuit breakers, latency, rate limits 
 - ✂️ **[jsontrim](https://github.com/arun0009/jsontrim)** — JSON trimming with redaction and size limits without breaking structure
 - 🔐 **[aws-secrets-cache](https://github.com/arun0009/aws-secrets-cache)** — Secrets Manager cache designed for long-running services
 - 🚇 **[bartonic](https://github.com/arun0009/bartonic)** — BART commuter PWA · [Live](https://bartonic.arun0009.workers.dev)
